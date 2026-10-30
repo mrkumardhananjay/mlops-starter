@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.git/
+data.csv
+test_app.py
+call_api.py
+requirements-dev.txt
